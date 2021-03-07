@@ -1,5 +1,5 @@
 # Ninja_Database
-Code written in SQL
+Code written in SQL - Link to the database file: https://drive.google.com/file/d/1pqW_7MHHtd5iwtbACjdJTZ4qRhosuDeO/view?usp=sharing
 
 Anastasia Ganshina - Ninja Queries
 
